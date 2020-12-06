@@ -6,3 +6,5 @@ The pageX read-only property of the MouseEvent interface returns the X (horizont
 at which the mouse was clicked, relative to the left edge of the entire document. 
 
 This includes any portion of the document not currently visible.
+
+Very simple and awesome project !
